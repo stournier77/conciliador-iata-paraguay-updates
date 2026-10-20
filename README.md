@@ -6,4 +6,4 @@ Las actualizaciones contienen solamente el programa, sin UUID de equipos, creden
 
 Si Paraguay ya está abierto, cerrarlo desde su botón y abrirlo de nuevo desde Escritorio para recibir una versión nueva. Sin conexión, continúa funcionando la versión instalada.
 
-Primera versión de distribución: v1.0.1 · 20/10/2026.
+Primera versión de distribución: v1.0.2 · 20/10/2026.
